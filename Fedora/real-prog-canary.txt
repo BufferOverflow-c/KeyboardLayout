@@ -1,0 +1,61 @@
+// based on ThePrimeagen's poor ideas.
+
+partial alphanumeric_keys
+xkb_symbols "real-prog-canary" {
+
+    name[Group1]= "English (Real Programmers Canary)";
+
+    key <TLDE> { [       dollar,        asciitilde, dead_grave, dead_tilde      ] };
+
+    key <AE01> { [          plus,       1               ]       };
+    key <AE02> { [          bracketleft,        2               ]       };
+    key <AE03> { [          braceleft,  3       ]       };
+    key <AE04> { [          parenleft,  4               ]       };
+    key <AE05> { [          ampersand,      5               ]       };
+    key <AE06> { [          equal,  6, dead_circumflex, dead_circumflex ]   };
+    key <AE07> { [          parenright, 7       ]       };
+    key <AE08> { [          braceright, 8       ]       };
+    key <AE09> { [          bracketright,       9,  dead_grave] };
+    key <AE10> { [          asterisk,   0       ]       };
+    key <AE11> { [ exclam,      percent ]       };
+    key <AE12> { [ bar, grave,  dead_tilde] };
+
+    key <AD01> { [  semicolon,  colon, dead_acute, dead_diaeresis       ] };
+    key <AD02> { [      comma,  less,   dead_cedilla, dead_caron        ] };
+    key <AD03> { [      period, greater, dead_abovedot, periodcentered  ] };
+    key <AD04> { [          w,  W               ]       };
+    key <AD05> { [          L,  L               ]       };
+    key <AD06> { [          y,  Y               ]       };
+    key <AD07> { [          P,  P               ]       };
+    key <AD08> { [          B,  B               ]       };
+    key <AD09> { [          z,  Z               ]       };
+    key <AD10> { [          f,  F               ]       };
+    key <AD11> { [      slash,  question        ]       };
+    key <AD12> { [      at,     asciicircum             ]       };
+
+    key <AC01> { [          c,  C               ]       };
+    key <AC02> { [          r,  R               ]       };
+    key <AC03> { [          s,  S               ]       };
+    key <AC04> { [          t,  T               ]       };
+    key <AC05> { [          g,  G               ]       };
+    key <AC06> { [          m,  M               ]       };
+    key <AC07> { [          n,  N               ]       };
+    key <AC08> { [          e,  E               ]       };
+    key <AC09> { [          i,  I               ]       };
+    key <AC10> { [          a,  A               ]       };
+    key <AC11> { [      minus,  underscore      ]       };
+
+    key <AB01> { [   apostrophe,        quotedbl, dead_ogonek, dead_doubleacute ] };
+    key <AB02> { [          q,  Q               ]       };
+    key <AB03> { [          j,  J               ]       };
+    key <AB04> { [          v,  V               ]       };
+    key <AB05> { [          d,  D               ]       };
+    key <AB06> { [          k,  K               ]       };
+    key <AB07> { [          x,  X               ]       };
+    key <AB08> { [          h,  H               ]       };
+    key <AB09> { [          o,  O               ]       };
+    key <AB10> { [          u,  U               ]       };
+
+    key <BKSL> { [  backslash,  numbersign             ]       };
+};
+
