@@ -24,7 +24,7 @@ xkb_symbols "real-prog-canary" {
     key <AD02> { [      comma,  less,   dead_cedilla, dead_caron        ] };
     key <AD03> { [      period, greater, dead_abovedot, periodcentered  ] };
     key <AD04> { [          w,  W               ]       };
-    key <AD05> { [          L,  L               ]       };
+    key <AD05> { [          l,  L               ]       };
     key <AD06> { [          y,  Y               ]       };
     key <AD07> { [          P,  P               ]       };
     key <AD08> { [          B,  B               ]       };
