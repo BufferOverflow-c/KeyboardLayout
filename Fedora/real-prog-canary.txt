@@ -26,8 +26,8 @@ xkb_symbols "real-prog-canary" {
     key <AD04> { [          w,  W               ]       };
     key <AD05> { [          l,  L               ]       };
     key <AD06> { [          y,  Y               ]       };
-    key <AD07> { [          P,  P               ]       };
-    key <AD08> { [          B,  B               ]       };
+    key <AD07> { [          p,  P               ]       };
+    key <AD08> { [          b,  B               ]       };
     key <AD09> { [          z,  Z               ]       };
     key <AD10> { [          f,  F               ]       };
     key <AD11> { [      slash,  question        ]       };
