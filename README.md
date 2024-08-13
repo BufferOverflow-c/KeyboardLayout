@@ -7,5 +7,5 @@ Standard Keyboard
 ![Ergo layout](./rdvc_standard.png)
 
 
-ergo keyboard
+Ortho keyboard
 ![Ergo layout](./rdvc_ergo.png)
