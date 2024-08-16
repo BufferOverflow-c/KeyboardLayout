@@ -1,8 +1,8 @@
 # KeyboardLayout
 ```
-sudo mv real-prog-canary.txt /usr/share/X11/xkb/symbols/rdvc
+sudo mv real-prog-canary.txt /usr/share/X11/xkb/symbols/rpcanary
 ```
 
 ```
-echo "setxkbmap rdvc" >> .zshrc 
+echo "setxkbmap rpcanary" >> .zshrc 
 ```
